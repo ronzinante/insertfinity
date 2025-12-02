@@ -1,6 +1,6 @@
 # insertfinity
 
-An enhanced system compatible with the Zack Freedman's Gridfinity system (<https://gridfinity.xyz/>).
+An enhanced system compatible with Zack Freedman's Gridfinity system (<https://gridfinity.xyz/>).
 
 ![alt text](img/insertfinity.png)
 
