@@ -57,20 +57,18 @@ Gridfinity enhanced bin + custom insert + part= insertfinity
 | ------- | ------ | ------------- |
 | ![alt text](img/insert/insert-aaa-battery.png) | [insert-aaa-battery](stl/insert/insert-aaa-battery.STL) | Store up to 9 AAA battery |
 | ![alt text](img/insert/insert-aa-battery.png) | [insert-aa-battery](stl/insert/insert-aa-battery.STL) | Store up to 5 AA battery |
-| ![alt text](img/insert/insert-hole.png) | [insert-5hole](stl/insert/insert-5hole.STL) | A simple pocket |
+| ![alt text](img/insert/insert-5hole.png) | [insert-5hole](stl/insert/insert-5hole.STL) | A simple pocket |
 | ![alt text](img/insert/insert-18650-battery.png) | [insert-18650-battery](stl/insert/insert-18650-battery.STL) | Store up to 2 18650 battery |
 | ![alt text](img/insert/insert-usb-a.png) | [insert-usb-a](stl/insert/insert-usb-a.STL) | Store up to 6 usb type A |
 | ![alt text](img/insert/insert-tool-6mm.png) | [insert-tool-6mm](stl/insert/insert-tool-6mm.STL) | Store up to 12 tool ⌀6mm |
 | ![alt text](img/insert/insert-er16-collet.png) | [insert-er16-collet](stl/insert/insert-er16-collet.STL) | Store up to 2 er16 collet |
-| ![alt text](img/insert/insert-hole.png/) | [insert-hole](stl/insert/insert-hole.STL) | Store up to 5 pen |
+| ![alt text](img/insert/insert-hole.png) | [insert-hole](stl/insert/insert-hole.STL) | Store up to 5 pen |
 | ![alt text](img/insert/insert-marker.png) | [insert-marker](stl/insert/insert-marker.STL) | Store up to 2 marker |
-| ![alt text](img/insert/insert-pedestal.png) | [insert-pedestal](stl/insert/insert-pedestal/) | This insert consist in multiple 3d printed parts. Inside the base, a reed switch, a 5 mm LED, and a CR2032 coin cell are wired together. The LED illuminate the object placed on the platform, it acts like a beacon. See exploded view: [here](#exploded-view). |
+| ![alt text](img/insert/insert-pedestal.png) | [insert-pedestal](stl/insert/insert-pedestal/) | This insert consist in multiple 3d printed parts. Inside the base, a reed switch, a 5 mm LED, and a CR2032 coin cell are wired together. The LED illuminate the object placed on the platform, it acts like a beacon. See exploded view: [here exploded view](#exploded-view). |
 
 ### Exploded view
 
-**insert-pedestal**
-
-Folder: [insert-pedestal](stl/insert/insert-pedestal/)
+**insert-pedestal** link to folder: [insert-pedestal](stl/insert/insert-pedestal/)
 
 ![alt text](img/insert/insert-pedestal-exploded.png)
 
